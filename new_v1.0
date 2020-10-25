@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main (void)
+{
+  printf ("Hello, World!\n");
+  getchar ();
+  return 0;
+}
+
+float func(float x, float z) {
+    float y
+    y = x + z
+    return{y}
+}
